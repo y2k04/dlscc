@@ -1,7 +1,9 @@
 {
   "Name": "69F3A590_8-OR",
   "Colour": "#49FF00",
-  "Dependencies": [],
+  "Dependencies": [
+    "69F3A590_OR"
+  ],
   "InputPins": [
     {
       "Name": "IN A",
@@ -62,7 +64,7 @@
   ],
   "SubChips": [
     {
-      "Name": "OR",
+      "Name": "69F3A590_OR",
       "ID": 498573296,
       "Points": [
         {
@@ -73,7 +75,7 @@
       "Data": null
     },
     {
-      "Name": "OR",
+      "Name": "69F3A590_OR",
       "ID": 1156893921,
       "Points": [
         {
@@ -84,7 +86,7 @@
       "Data": null
     },
     {
-      "Name": "OR",
+      "Name": "69F3A590_OR",
       "ID": 100834210,
       "Points": [
         {
@@ -95,7 +97,7 @@
       "Data": null
     },
     {
-      "Name": "OR",
+      "Name": "69F3A590_OR",
       "ID": 71492407,
       "Points": [
         {
@@ -106,7 +108,7 @@
       "Data": null
     },
     {
-      "Name": "OR",
+      "Name": "69F3A590_OR",
       "ID": 296657282,
       "Points": [
         {
@@ -117,7 +119,7 @@
       "Data": null
     },
     {
-      "Name": "OR",
+      "Name": "69F3A590_OR",
       "ID": 1354785445,
       "Points": [
         {
@@ -128,7 +130,7 @@
       "Data": null
     },
     {
-      "Name": "OR",
+      "Name": "69F3A590_OR",
       "ID": 1627425157,
       "Points": [
         {
