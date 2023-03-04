@@ -1,7 +1,7 @@
 ---
 name: Submit new circuit
 about: Submit your own Digital Logic Sim circuits
-title: "[New Circuit] "
+title: ''
 labels: new circuit
 assignees: ''
 
@@ -10,6 +10,8 @@ assignees: ''
 [Circuit name]
 > by [Author]
 ---
+
+[Description]
 
 [Screenshot of circuit]
 
