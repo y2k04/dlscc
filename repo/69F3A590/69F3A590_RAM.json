@@ -2,7 +2,9 @@
   "Name": "69F3A590_RAM",
   "Colour": "#3F5624",
   "Dependencies": [
-    "69F3A590_8-OR"
+    "69F3A590_8-OR",
+    "69F3A590_4B-REGISTER",
+    "69F3A590_3-AND"
   ],
   "InputPins": [
     {
@@ -138,7 +140,7 @@
       "Data": null
     },
     {
-      "Name": "4B-REGISTER",
+      "Name": "69F3A590_4B-REGISTER",
       "ID": 195978220,
       "Points": [
         {
@@ -149,7 +151,7 @@
       "Data": null
     },
     {
-      "Name": "4B-REGISTER",
+      "Name": "69F3A590_4B-REGISTER",
       "ID": 1275121632,
       "Points": [
         {
@@ -160,7 +162,7 @@
       "Data": null
     },
     {
-      "Name": "4B-REGISTER",
+      "Name": "69F3A590_4B-REGISTER",
       "ID": 540397314,
       "Points": [
         {
@@ -171,7 +173,7 @@
       "Data": null
     },
     {
-      "Name": "4B-REGISTER",
+      "Name": "69F3A590_4B-REGISTER",
       "ID": 2021990732,
       "Points": [
         {
@@ -182,7 +184,7 @@
       "Data": null
     },
     {
-      "Name": "4B-REGISTER",
+      "Name": "69F3A590_4B-REGISTER",
       "ID": 1325785128,
       "Points": [
         {
@@ -193,7 +195,7 @@
       "Data": null
     },
     {
-      "Name": "4B-REGISTER",
+      "Name": "69F3A590_4B-REGISTER",
       "ID": 1866883959,
       "Points": [
         {
@@ -204,7 +206,7 @@
       "Data": null
     },
     {
-      "Name": "4B-REGISTER",
+      "Name": "69F3A590_4B-REGISTER",
       "ID": 1649503510,
       "Points": [
         {
@@ -215,7 +217,7 @@
       "Data": null
     },
     {
-      "Name": "4B-REGISTER",
+      "Name": "69F3A590_4B-REGISTER",
       "ID": 1134162165,
       "Points": [
         {
@@ -226,7 +228,7 @@
       "Data": null
     },
     {
-      "Name": "3-AND",
+      "Name": "69F3A590_3-AND",
       "ID": 748333466,
       "Points": [
         {
@@ -237,7 +239,7 @@
       "Data": null
     },
     {
-      "Name": "3-AND",
+      "Name": "69F3A590_3-AND",
       "ID": 559202798,
       "Points": [
         {
@@ -248,7 +250,7 @@
       "Data": null
     },
     {
-      "Name": "3-AND",
+      "Name": "69F3A590_3-AND",
       "ID": 2067821498,
       "Points": [
         {
@@ -259,7 +261,7 @@
       "Data": null
     },
     {
-      "Name": "3-AND",
+      "Name": "69F3A590_3-AND",
       "ID": 1322753475,
       "Points": [
         {
@@ -270,7 +272,7 @@
       "Data": null
     },
     {
-      "Name": "3-AND",
+      "Name": "69F3A590_3-AND",
       "ID": 1614428583,
       "Points": [
         {
@@ -281,7 +283,7 @@
       "Data": null
     },
     {
-      "Name": "3-AND",
+      "Name": "69F3A590_3-AND",
       "ID": 1255497584,
       "Points": [
         {
@@ -292,7 +294,7 @@
       "Data": null
     },
     {
-      "Name": "3-AND",
+      "Name": "69F3A590_3-AND",
       "ID": 1519093409,
       "Points": [
         {
@@ -303,7 +305,7 @@
       "Data": null
     },
     {
-      "Name": "3-AND",
+      "Name": "69F3A590_3-AND",
       "ID": 1623400753,
       "Points": [
         {
