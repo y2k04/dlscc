@@ -2,7 +2,8 @@
   "Name": "69F3A590_XOR",
   "Colour": "#42AA37",
   "Dependencies": [
-    "69F3A590_NAND"
+    "69F3A590_NAND",
+    "69F3A590_OR"
   ],
   "InputPins": [
     {
@@ -39,7 +40,7 @@
       "Data": null
     },
     {
-      "Name": "OR",
+      "Name": "69F3A590_OR",
       "ID": 376167635,
       "Points": [
         {
