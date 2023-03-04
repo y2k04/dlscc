@@ -1,7 +1,9 @@
 {
   "Name": "69F3A590_RAM",
   "Colour": "#3F5624",
-  "Dependencies": ["69F3A590_8-OR"],
+  "Dependencies": [
+    "69F3A590_8-OR"
+  ],
   "InputPins": [
     {
       "Name": "B1 IN",
