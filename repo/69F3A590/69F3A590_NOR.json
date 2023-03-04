@@ -1,7 +1,9 @@
 {
   "Name": "69F3A590_NOR",
   "Colour": "#567E66",
-  "Dependencies": [],
+  "Dependencies": [
+    "69F3A590_OR"
+  ],
   "InputPins": [
     {
       "Name": "Pin",
@@ -26,7 +28,7 @@
   ],
   "SubChips": [
     {
-      "Name": "OR",
+      "Name": "69F3A590_OR",
       "ID": 119684490,
       "Points": [
         {
