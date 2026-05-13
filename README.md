@@ -6,5 +6,4 @@
 - If you want to change, remove or add anything with the repository, fork this repository and create a pull request when you have finished making your changes.
 
 ### To Do
- - Make a desktop app to download circuits
  - Make categories
